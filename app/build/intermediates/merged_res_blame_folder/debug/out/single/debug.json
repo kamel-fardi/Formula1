@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_one.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-53:/drawable/one.png"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\drawable_ic_visa.png.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\drawable\\ic_visa.png"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\drawable_ic_mastercard.png.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\drawable\\ic_mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_three.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-53:/drawable/three.png"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_two.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-53:/drawable/two.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_images.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-53:/drawable/images.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kamel\\.gradle\\daemon\\8.0\\com.kamelfardi.formula1.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]
