@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formula 1</string>
+    <string name="constructor">Constructeur</string>
+    <string name="driver">Chauffeur</string>
+    <string name="last_results">Derniers résultats</string>
+    <string name="points">Points</string>
+    <string name="position">Position</string>
+    <string name="standings">Classements</string>
+    <string name="upcoming_racings">Courses à venir</string>
+    <string name="wins">Victoires</string>
+</resources>

@@ -5,6 +5,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AccountCircle
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.filled.SportsScore
 import androidx.compose.ui.graphics.vector.ImageVector
 import com.kamelfardi.formula1.ui.navigation.Screens
 
@@ -23,8 +24,8 @@ data class BottomNavigation(
                 route = Screens.Home.route
             ),
             BottomNavigation(
-                title = "Walet",
-                icon = Icons.Filled.Search,
+                title = "F1",
+                icon = Icons.Filled.SportsScore,
                 route = Screens.Notification.route
             ),
             BottomNavigation(

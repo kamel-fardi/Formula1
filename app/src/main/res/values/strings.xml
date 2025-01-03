@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Formula 1</string>
+    <string name="app_name" translatable="false">Formula 1</string>
+    <string name="upcoming_racings">Up coming racings</string>
+    <string name="last_results">Last Results</string>
+    <string name="standings">Standings</string>
+    <string name="driver">Driver</string>
+    <string name="constructor">Constructor</string>
+    <string name="points">Points</string>
+    <string name="position">Position</string>
+    <string name="wins">Wins</string>
+
 </resources>
