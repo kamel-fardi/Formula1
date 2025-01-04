@@ -7,12 +7,21 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="Circuits">Circuits</string>
     <string name="app_name" translatable="false">Formula 1</string>
     <string name="constructor">Constructor</string>
+    <string name="constructors">Constructors</string>
     <string name="driver">Driver</string>
+    <string name="drivers">Drivers</string>
+    <string name="email">Email</string>
+    <string name="error_message">Please all fields.</string>
     <string name="last_results">Last Results</string>
+    <string name="login">Login</string>
+    <string name="login_button">Login</string>
+    <string name="password">Password</string>
     <string name="points">Points</string>
     <string name="position">Position</string>
+    <string name="remember_me">Remember Me</string>
     <string name="standings">Standings</string>
     <string name="upcoming_racings">Up coming racings</string>
     <string name="wins">Wins</string>

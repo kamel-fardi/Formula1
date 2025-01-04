@@ -1,370 +1,450 @@
 [
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_azerbaijan_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/azerbaijan_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_australia_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/australia_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_catalunya.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/catalunya.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_sainz.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/sainz.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_doohan.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/doohan.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_monza.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/monza.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_tsunoda.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/tsunoda.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_usa_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/usa_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_perez.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/perez.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_rb_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/rb_logo.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_italy_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/italy_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_stroll.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/stroll.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_baku.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/baku.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_mercedes_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/mercedes_logo.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_ocon.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/ocon.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_japan_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/japan_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_albert_park.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/albert_park.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_canada_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/canada_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_losail.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/losail.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_germany_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/germany_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_mclaren_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/mclaren_logo.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_thailand_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/thailand_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_azerbaijan_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/azerbaijan_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_stroll.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/stroll.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_albon_avatar.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/albon_avatar.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_tsunoda.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/tsunoda.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_monaco.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/monaco.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_villeneuve.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/villeneuve.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/xml/data_extraction_rules.xml"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_spa.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/spa.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_qatar_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/qatar_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_red_bull_ring.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/red_bull_ring.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_rodriguez.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/rodriguez.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_alpine_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/alpine_logo.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_alonso.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/alonso.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_monaco_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/monaco_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_hulkenberg.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/hulkenberg.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_china_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/china_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_shanghai.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/shanghai.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_verstappen.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/verstappen.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_catalunya.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/catalunya.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_shanghai.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/shanghai.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_great_britain_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/great_britain_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_marina_bay.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/marina_bay.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_austin.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/austin.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_bahrain.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/bahrain.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_ferrari.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/ferrari.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_uk_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/uk_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_bahrain_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/bahrain_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_suzuka.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/suzuka.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_red_bull.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/red_bull.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_france_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/france_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_brazil_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/brazil_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_perez.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/perez.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_losail.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/losail.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_brazil_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/brazil_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_leclerc.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/leclerc.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_italy_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/italy_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/xml_backup_rules.xml.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/xml/backup_rules.xml"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_miami.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/miami.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_zandvoort.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/zandvoort.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_piastri.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/piastri.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_hungary_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/hungary_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_lawson.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/lawson.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_norris.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/norris.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_haas.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/haas.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_suzuka.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/suzuka.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_monaco.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/monaco.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_colapinto.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/colapinto.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_bottas.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/bottas.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_qatar_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/qatar_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_france_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/france_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_ocon.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/ocon.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_red_bull_ring.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/red_bull_ring.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_alpine.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/alpine.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_netherlands_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/netherlands_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_gasly.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/gasly.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_baku.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/baku.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_verstappen.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/verstappen.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_austin.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/austin.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_russell.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/russell.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_mexico_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/mexico_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_austria_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/austria_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_spain_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/spain_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_monza.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/monza.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_argentina_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/argentina_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_bahrain.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/bahrain.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_piastri.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/piastri.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_zhou.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/zhou.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_lawson.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/lawson.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_gasly.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/gasly.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_jeddah.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/jeddah.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_saudi_arabia_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/saudi_arabia_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_bearman.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/bearman.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_vegas.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/vegas.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_russell.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/russell.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_sauber_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/sauber_logo.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_albon_avatar.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/albon_avatar.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_finland_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/finland_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_zhou.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/zhou.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/xml_data_extraction_rules.xml.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_colapinto.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/colapinto.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_interlagos.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/interlagos.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_hungaroring.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/hungaroring.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_austria_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/austria_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_doohan.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/doohan.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_japan_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/japan_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_williams.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/williams.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_vegas.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/vegas.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_canada_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/canada_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_sainz.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/sainz.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_mercedes.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/mercedes.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_finland_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/finland_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_usa_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/usa_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_bahrain_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/bahrain_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_williams_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/williams_logo.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_hulkenberg.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/hulkenberg.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_belgium_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/belgium_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_albon.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/albon.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_interlagos.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/interlagos.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_bottas.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/bottas.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_spain_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/spain_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_denmark_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/denmark_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_uae_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/uae_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_imola.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/imola.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_albert_park.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/albert_park.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_hamilton.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/hamilton.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_spa.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/spa.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_rodriguez.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/rodriguez.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_monaco_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/monaco_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_silverstone.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/silverstone.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_australia_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/australia_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_uae_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/uae_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_great_britain_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/great_britain_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_sauber.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/sauber.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_alonso.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/alonso.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_magnussen.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/magnussen.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_hamilton.jpg.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/hamilton.jpg"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_norris.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/norris.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_new_zealand_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/new_zealand_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_zandvoort.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/zandvoort.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_yas_marina.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/yas_marina.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_jeddah.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/jeddah.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_belgium_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/belgium_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_aston_martin.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/aston_martin.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_imola.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/imola.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_aston_martin_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/aston_martin_logo.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_saudi_arabia_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/saudi_arabia_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_miami.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/miami.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_ferrari_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/ferrari_logo.jpg"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_villeneuve.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/villeneuve.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_singapore_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/singapore_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_singapore_flag.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/singapore_flag.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_denmark_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/denmark_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/ic_launcher_background.xml"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_netherlands_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/netherlands_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_silverstone.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/silverstone.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_mexico_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/mexico_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_argentina_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/argentina_flag.png"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.kamelfardi.formula1.app-merged_res-51:/drawable_hungaroring.png.flat",
-        "source": "com.kamelfardi.formula1.app-main-53:/drawable/hungaroring.png"
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_yas_marina.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/yas_marina.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_rb.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/rb.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_hungary_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/hungary_flag.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_mclaren.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/mclaren.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_china_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/china_flag.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_thailand_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/thailand_flag.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_marina_bay.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/marina_bay.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_leclerc.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/leclerc.jpg"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_uk_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/uk_flag.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_magnussen.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/magnussen.jpg"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/xml_backup_rules.xml.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_germany_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/germany_flag.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_haas_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/haas_logo.jpg"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_albon.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/albon.jpg"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_new_zealand_flag.png.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/new_zealand_flag.png"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_bearman.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/bearman.jpg"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/drawable_red_bull_logo.jpg.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/drawable/red_bull_logo.jpg"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kamelfardi.formula1.app-merged_res-67:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kamelfardi.formula1.app-main-69:/mipmap-anydpi-v26/ic_launcher.xml"
     }
 ]

@@ -43,7 +43,7 @@ fun NotificationScreen(navController: NavController) {
                     )
                 }
                 Text(
-                    "Search Screen",
+                    "notif Screen",
                     style = MaterialTheme.typography.titleLarge,
                     modifier = Modifier.padding(vertical = 20.dp)
                 )

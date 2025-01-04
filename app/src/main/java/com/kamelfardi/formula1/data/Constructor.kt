@@ -1,5 +1,7 @@
 package com.kamelfardi.formula1.data
 
+import androidx.compose.ui.graphics.Brush
+
 data class Constructor(
     val constructorId: String,
     val url: String,
@@ -7,6 +9,7 @@ data class Constructor(
     val points: Int,
     val position: Int,
     val wins: Int,
+    val color: Brush,
     val nationality: String
 
 

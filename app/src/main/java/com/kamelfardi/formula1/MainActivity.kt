@@ -20,6 +20,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.kamelfardi.formula1.ui.theme.Formula1AppUITheme
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
+import com.kamelfardi.formula1.ui.screens.auth.AuthViewModel
+import com.kamelfardi.formula1.ui.screens.auth.RegisterView
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -34,8 +36,13 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
 
-                    BottomNavigationBar()
-
+//                    BottomNavigationBar()
+                    RegisterView(
+                        viewModel = AuthViewModel(),
+                        onUserRegistered = { user ->
+                            println("Preview Registered User: $user")
+                        }
+                    )
                 }
             }
         }

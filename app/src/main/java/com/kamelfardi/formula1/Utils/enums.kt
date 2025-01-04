@@ -80,18 +80,34 @@ enum class Circuitimage(val drawableResId: Int) {
 }
 enum class flags(val drawableResId: Int) {
     USA(R.drawable.usa_flag),
+    THAI(R.drawable.thailand_flag),
+    SPANISH(R.drawable.spain_flag),
+    FINISH(R.drawable.finland_flag),
+    DUTCH(R.drawable.netherlands_flag),
+    ARGENTINIAN(R.drawable.argentina_flag),
+    AUSTRALIAN(R.drawable.australia_flag),
+    NEW_ZEALAND(R.drawable.new_zealand_flag),
+    MONEGASQUE(R.drawable.monaco_flag),
+DAINISH(R.drawable.denmark_flag),
+    MEIXCAN(R.drawable.mexico_flag),
+    CHINESE(R.drawable.china_flag),
+    AMERICAN(R.drawable.usa_flag),
     AUSTRIA(R.drawable.austria_flag),
+    AUSTRIAN(R.drawable.austria_flag),
     BAHRAIN(R.drawable.bahrain_flag),
     AZERBAIJAN(R.drawable.azerbaijan_flag),
     SPAIN(R.drawable.spain_flag),
     MONACO(R.drawable.monaco_flag),
     CANADA(R.drawable.canada_flag),
     FRANCE(R.drawable.france_flag),
+    FRENCH(R.drawable.france_flag),
     GREAT_BRITAIN(R.drawable.great_britain_flag),
+    BRITISH(R.drawable.great_britain_flag),
     HUNGARY(R.drawable.hungary_flag),
     BELGIUM(R.drawable.belgium_flag),
     NETHERLANDS(R.drawable.netherlands_flag),
     ITALY(R.drawable.italy_flag),
+    ITALIAN(R.drawable.italy_flag),
     MEXICO(R.drawable.mexico_flag),
     BRAZIL(R.drawable.brazil_flag),
     AUSTRALIA(R.drawable.australia_flag),
@@ -121,7 +137,52 @@ enum class flags(val drawableResId: Int) {
         }
     }
 
+enum class constructorImg(val drawableResId: Int){
+    //only 2024 constructors
+    MERCEDES(R.drawable.mercedes),
+    RED_BULL(R.drawable.red_bull),
+    FERRARI(R.drawable.ferrari),
+    ALPINE(R.drawable.alpine),
+    MCLAREN(R.drawable.mclaren),
+    ASTON_MARTIN(R.drawable.aston_martin),
+    SAUBER(R.drawable.sauber),
+    HAAS(R.drawable.haas),
+    WILLIAMS(R.drawable.williams),
+    RB(R.drawable.rb);
 
+    companion object {
+        fun fromConstructorName(constructorName: String): constructorImg? {
+            return constructorImg.values()
+                .find { it.name.lowercase() == constructorName.lowercase() }
+        }
+    }
+    fun getDrawableResourceId(): Int {
+        return drawableResId
+    }
+}
+enum class constructorlogo(val drawableResId: Int){
+    //only 2024 constructors
+    MERCEDES(R.drawable.mercedes_logo),
+    RED_BULL(R.drawable.red_bull_logo),
+    FERRARI(R.drawable.ferrari_logo),
+    ALPINE(R.drawable.alpine_logo),
+    MCLAREN(R.drawable.mclaren_logo),
+    ASTON_MARTIN(R.drawable.aston_martin_logo),
+    SAUBER(R.drawable.sauber_logo),
+    HAAS(R.drawable.haas_logo),
+    WILLIAMS(R.drawable.williams_logo),
+    RB(R.drawable.rb_logo);
+
+    companion object {
+        fun fromConstructorName(constructorName: String): constructorlogo? {
+            return constructorlogo.values()
+                .find { it.name.lowercase() == constructorName.lowercase() }
+        }
+    }
+    fun getDrawableResourceId(): Int {
+        return drawableResId
+    }
+}
 
 
 

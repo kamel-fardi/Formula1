@@ -5,9 +5,19 @@
     <string name="last_results">Derniers résultats</string>
     <string name="standings">Classements</string>
     <string name="driver">Chauffeur</string>
+    <string name="drivers">Chauffeurs</string>
     <string name="constructor">Constructeur</string>
+    <string name="constructors">Constructeurs</string>
     <string name="points">Points</string>
     <string name="position">Position</string>
     <string name="wins">Victoires</string>
+    <string name="Circuits">Circuits</string>
+    <string name="login">Connexion</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="remember_me">Se souvenir de moi</string>
+    <string name="error_message">Veuillez remplir tous les champs.</string>
+    <string name="login_button">Connexion</string>
+
 
 </resources>

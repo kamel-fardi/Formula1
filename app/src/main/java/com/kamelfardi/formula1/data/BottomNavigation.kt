@@ -3,6 +3,7 @@ package com.kamelfardi.formula1.data
 import android.graphics.drawable.Icon
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AccountCircle
+import androidx.compose.material.icons.filled.AdUnits
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material.icons.filled.SportsScore
@@ -26,12 +27,12 @@ data class BottomNavigation(
             BottomNavigation(
                 title = "F1",
                 icon = Icons.Filled.SportsScore,
-                route = Screens.Notification.route
+                route = Screens.F1.route
             ),
             BottomNavigation(
-                title = "Search",
-                icon = Icons.Filled.Search,
-                route = Screens.Notification.route
+                title = "Social",
+                icon = Icons.Filled.AdUnits,
+                route = Screens.Social.route
             ),
             BottomNavigation(
                 title = "Profile",

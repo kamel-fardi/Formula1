@@ -4,9 +4,20 @@
     <string name="last_results">Last Results</string>
     <string name="standings">Standings</string>
     <string name="driver">Driver</string>
+    <string name="drivers">Drivers</string>
     <string name="constructor">Constructor</string>
+    <string name="constructors">Constructors</string>
     <string name="points">Points</string>
     <string name="position">Position</string>
     <string name="wins">Wins</string>
+    <string name="Circuits">Circuits</string>
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="error_message">Please all fields.</string>
+    <string name="login_button">Login</string>
+
 
 </resources>

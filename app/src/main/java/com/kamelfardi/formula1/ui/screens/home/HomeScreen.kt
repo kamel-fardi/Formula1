@@ -6,16 +6,19 @@ package com.kamelfardi.formula1.ui.screens.home
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.kamelfardi.formula1.ui.sections.CircuitsSection
-import com.kamelfardi.formula1.ui.sections.CurrenciesSection
-import com.kamelfardi.formula1.ui.sections.DriverSection
+import com.kamelfardi.formula1.R
+import com.kamelfardi.formula1.ui.screens.home.sections.CircuitsSection
+import com.kamelfardi.formula1.ui.screens.home.sections.DriverSection
+import com.kamelfardi.formula1.ui.screens.home.sections.StandingsSection
 import com.kamelfardi.formula1.ui.theme.Formula1AppUITheme
-import com.kamelfardi.formula1.ui.sections.UpcomingSection
 
 
 @Composable
@@ -26,29 +29,25 @@ fun HomeScreen(navController: NavController) {
             color = MaterialTheme.colorScheme.background
         ) {
 
-            Row(
+            Column(
                 modifier = Modifier
-                    .fillMaxWidth()
-                    .padding(10.dp),
-                horizontalArrangement = Arrangement.SpaceBetween,
-                verticalAlignment = Alignment.CenterVertically
+                    .fillMaxSize()
+                    .padding(horizontal = 10.dp),
+
             ) {
 
-                Column(
-                    modifier = Modifier
-                        .fillMaxSize()
+                Text(
+                    text = stringResource(R.string.upcoming_racings),
+                    fontSize = 24.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.onBackground
 
-                ) {
-
-                    UpcomingSection()
-                    CircuitsSection()
-                    Spacer(modifier = Modifier.height(16.dp))
-                    DriverSection()
-                    CurrenciesSection()
-                }
-
-
-
+                )
+                Spacer(modifier = Modifier.height(8.dp))
+                CircuitsSection()
+                Spacer(modifier = Modifier.height(10.dp))
+                DriverSection()
+                StandingsSection()
             }
         }
     }
