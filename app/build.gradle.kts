@@ -72,6 +72,12 @@ dependencies {
 
     implementation ("com.google.android.material:material:1.9.0")
     implementation("io.coil-kt:coil-compose:2.2.2") // Latest version
+    implementation ("com.google.code.gson:gson:2.10.1")
+
+    //retrofit
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
+    implementation ("com.squareup.okhttp3:logging-interceptor:4.9.0")
 
 
     // system UI Controller
